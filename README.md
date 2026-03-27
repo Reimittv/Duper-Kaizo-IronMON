@@ -16,7 +16,7 @@ A new spin on Super Kaizo. As opposed to increasing difficulty, this serves as a
 
 Pre-Safari remains virtually unchanged, the only differences are quality of life improvements to make pivoting more enjoyable.
 
-The major shift happens at the Safari Zone. You now engage in Safari 'Recruitment' where you keep your original Pokémon and find a new team member.
+The major shift happens at the Safari Zone. You will now need 2 Pokémon post-safari. You may either keep your original team member and add a new one, or find 2 new ones in the Safari. 
 
 Once both Pokémon are ready, a special NPC switches all remaining trainers to doubles battles and adds an extra Pokémon to their team where possible. From then on, you'll be playing Super Kaizo Doubles. 
 
@@ -25,11 +25,15 @@ Once both Pokémon are ready, a special NPC switches all remaining trainers to d
 ## General Rules for All Games
 
 0. All other [Super Kaizo rules](https://github.com/PyroMikeGit/SuperKaizoIronMON/blob/main/README.md) apply. (unless overridden by a Duper rule below)!
-1. A new NPC has been added outside the Safari zone, speaking to them will convert all unfought trainers to Double Battles and where able, will add an additional Pokémon to their team. [ROM patch](Coming Soon)
-2. You are no longer required to pivot at the Safari zone. Instead, you must 'recruit' a second Pokémon to your team. This follows the exact same rules and structure as Super Kaizo pivoting, including the ability to do early Koga and Blaine. You now commit to your finished doubles team by interacting with the aforementioned NPC. (There is no going back, so only switch to doubles when you are truly prepared!)  
-3. You may reenter each Dungeon one additional time, however, you must have enabled doubles mode before doing so.
-4. ALL banned moves may be used while labbing and pivoting. The normal restrictions on moves apply once you begin the first non-lab trainer battle.
-5. Early pivoting is not restricted to one Pokémon per area. You now have a game specific amount of pivots that can be used across all starter areas. For instance, in FRLG you may pivot a total of 4 times across the 4 locations. You still may not catch the same mon multiple times from a single patch of grass to reroll natures, IVS or abilities. 
+1. A new NPC has been added to the East of the Safari zone entrance, speaking to them will convert all unfought trainers to Double Battles and where able, will add an additional Pokémon to their team. [ROM patch](Coming Soon)
+2. Doubles Mode MUST be enabled before collecting your 7th Gym badge. This allows for early Koga and Blaine, but encourages careful consideration of when to make the switch. (There is no going back, so make sure you are truly prepared!) 
+3. You are no longer required to pivot at the Safari. Instead, you must use the Safari Zone to prepare 2 Pokémon for Doubles. This can be your original runner, plus a Safari mon, or 2 Safari mons.
+4. If you are keeping your original Pokémon, Safari catching works exactly like in Super. You may catch 3 Pokémon total from Safari, then choose 1 after checking their stats and TM learnability.
+5. If you do not want to keep your original, then you may catch 4 Pokémon in the Safari and pick 2 after checking their stats and TM learnability. (1 extra favorite catch is allowed in either case)
+6. You may re-enter each Dungeon one additional time, however, you must have enabled doubles mode before doing so. This replaces the post-pivot re-entry of Super. 
+7. ALL banned moves may be used while labbing and pivoting. The normal restrictions on moves apply once you begin the first non-lab trainer battle.
+8. Early pivoting is not restricted to one Pokémon per area. You now have 4 total catches across all starter areas.
+9. Early pivoting still works in the traditional Ironmon way of commiting to a Pokémon as soon as it's caught, unlike Safari where you can check their stats and moves first. You also may still only catch one of that species per grass.  (If I catch a Snorlax in route 1, I cannot catch another Snorlax in route 1 to look for a better nature or IVs) 
 
 
 ## Doubles Rules
