@@ -2,7 +2,7 @@
 - Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 - Special Thank you To [Drumstix](https://github.com/drumstix576/) for developing the patch that makes all of this possible!
 - Thank you to [Iateyourpie](https://www.twitch.tv/iateyourpie) for creating Ironmon and Super Kaizo
-- Thank you to DrMaple for their quality of life patch that is incorporated into the Duper patch
+- Thank you to [DrMaple](https://www.twitch.tv/drmaple) for their quality of life patch that is incorporated into the Duper patch
 
 ## Contents
 - [Ruleset Summary](#ruleset-aims)
