@@ -1,7 +1,8 @@
 # Duper Kaizo IronMON Ruleset by [Reimi](https://www.twitch.tv/reimi) 
 - Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
-- A big thank you to [Iateyourpie](https://www.twitch.tv/iateyourpie) for creating Ironmon and Super Kaizo
-- Special Thank you To Drumstix for developing the patch that makes all of this possible!
+- Special Thank you To [Drumstix](https://github.com/drumstix576/) for developing the patch that makes all of this possible!
+- Thank you to [Iateyourpie](https://www.twitch.tv/iateyourpie) for creating Ironmon and Super Kaizo
+- Thank you to DrMaple for their quality of life patch that is incorporated into the Duper patch
 
 ## Contents
 - [Ruleset Summary](#ruleset-aims)
