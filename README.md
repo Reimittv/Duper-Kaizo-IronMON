@@ -30,7 +30,7 @@ Once both Pokémon are ready, a special NPC switches all remaining trainers to d
 2. Doubles Mode MUST be enabled before collecting your 7th Gym badge. This allows for early Koga and Blaine, but encourages careful consideration of when to make the switch. (There is no going back, so make sure you are truly prepared!) 
 3. You are no longer required to pivot at the Safari. Instead, you must use the Safari Zone to prepare 2 Pokémon for Doubles. This can be your original runner, plus a Safari mon, or 2 Safari mons.
 4. If you are keeping your original Pokémon, Safari catching works exactly like in Super. You may catch 3 Pokémon total from Safari, then choose 1 after checking their stats and TM learnability.
-5. If you do not want to keep your original, then you may catch 4 Pokémon in the Safari and pick 2 after checking their stats and TM learnability. (1 extra favorite catch is allowed in either case)
+5. If you do not want to keep your original, then you may catch 5 Pokémon in the Safari and pick 2 after checking their stats and TM learnability. (1 extra favorite catch is allowed in either case)
 6. You may re-enter each Dungeon one additional time, however, you must have enabled doubles mode before doing so. This replaces the post-pivot re-entry of Super. 
 7. ALL banned moves may be used while labbing and pivoting. The normal restrictions on moves apply once you begin the first non-lab trainer battle.
 8. Early pivoting is not restricted to one Pokémon per area. You now have 4 total catches across all starter areas.
